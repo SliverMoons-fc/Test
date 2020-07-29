@@ -7,6 +7,7 @@ public class MySelfEntity {
     private BigDecimal money;
     private String userName;
     private String passWord;
+    private String passWord3;
 
     public BigDecimal getMoney() {
         return money;
