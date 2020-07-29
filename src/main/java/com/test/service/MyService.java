@@ -10,5 +10,7 @@ public class MyService {
         System.out.println("1111");
         System.out.println("1111");
         System.out.println("1111");
+        System.out.println("我是master");
+
     }
 }
