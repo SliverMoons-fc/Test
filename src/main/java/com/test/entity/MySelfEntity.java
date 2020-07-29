@@ -6,7 +6,9 @@ import java.math.BigDecimal;
 public class MySelfEntity {
     private BigDecimal money;
     private String userName;
+
     private String passWord;
+    private String passWord1;
 
     public BigDecimal getMoney() {
         return money;
